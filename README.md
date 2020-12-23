@@ -14,7 +14,6 @@ Data Resources:
 Directions: 
 * Create three (3) different kinds of plots/figures 
 * Use DT to create one (1) data table
-* Include at least three (3) different types of inputs
+* Include at least two (2) different types of inputs
 * One (1) functioning downloadButton() 
-* One (1) observer in the server
 * Inputs must use reactivity in a logical manner with all outputs displayed to users
